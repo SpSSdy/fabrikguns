@@ -27,7 +27,7 @@ M1 Garand - WIP
 
 LMGs:
 
-M1919 - WIP
+M1919 - Models & anims uploaded, GDT to follow
 
 MG42 - WIP
 
@@ -41,6 +41,6 @@ Other:
 
 US Shovel - WIP
 
-Frag Grenade - Finished
+Frag Grenade - Models & anims uploaded, GDT to follow
 
 
