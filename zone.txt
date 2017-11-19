@@ -1,0 +1,2 @@
+weaponfull,ww2_winchester_zm
+weaponfull,ww2_winchester_upgraded_zm

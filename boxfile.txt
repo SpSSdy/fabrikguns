@@ -1,0 +1,1 @@
+ww2_winchester,ww2_winchester_upgraded,,750,shotgun,,,,,FALSE,FALSE,FALSE,,,FALSE,TRUE,shotgun,,,
