@@ -15,3 +15,10 @@ weap_aw_sten_charge,,,spssdy\aw_sten\weap_aw_sten_charge.wav,,,UIN_MOD,,,,,BUS_F
 weap_aw_sten_mag_in,,,spssdy\aw_sten\weap_aw_sten_mag_in.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 weap_aw_sten_mag_out,,,spssdy\aw_sten\weap_aw_sten_mag_out.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 weap_aw_sten_fire_upgraded,,,spssdy\aw_sten\weap_aw_sten_fire_upgraded.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+weap_aw_mp40_fire,,,spssdy\aw_mp40\weap_aw_mp40_fire.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+weap_aw_mp40_fire_upgraded,,,spssdy\aw_mp40\weap_aw_mp40_fire_upgraded.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+weap_aw_mp40_bolt_back,,,spssdy\aw_mp40\weap_aw_mp40_bolt_back.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+weap_aw_mp40_charge,,,spssdy\aw_mp40\weap_aw_mp40_charge.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+weap_aw_mp40_mag_in,,,spssdy\aw_mp40\weap_aw_mp40_mag_in.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+weap_aw_mp40_mag_out,,,spssdy\aw_mp40\weap_aw_mp40_mag_out.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

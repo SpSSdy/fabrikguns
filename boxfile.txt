@@ -1,2 +1,3 @@
 ww2_winchester,ww2_winchester_upgraded,,750,shotgun,,,,,FALSE,FALSE,FALSE,,,FALSE,TRUE,shotgun,,,
 aw_sten,aw_sten_upgraded,,1250,rifle,,,,,TRUE,FALSE,FALSE,,,FALSE,TRUE,smg,,,
+aw_mp40,aw_mp40_upgraded,,1250,rifle,,,,,TRUE,FALSE,FALSE,,,FALSE,TRUE,smg,,,
