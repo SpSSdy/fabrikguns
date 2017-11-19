@@ -41,6 +41,6 @@ Other:
 
 US Shovel - WIP
 
-Frag Grenade - almost Finished
+Frag Grenade - Finished
 
 
