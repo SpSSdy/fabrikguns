@@ -9,3 +9,9 @@ weap_ww2_winchester_ads_rechamber,,,spssdy\ww2_winchester\weap_ww2_winchester_ad
 weap_ww2_winchester_rechamber,,,spssdy\ww2_winchester\weap_ww2_winchester_rechamber.wav,,,WPN_FOLEY_PLR,,,,,,,,,,,88,88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 weap_ww2_winchester_shell_insert_1,,,spssdy\ww2_winchester\weap_ww2_winchester_shell_insert_1.wav,,,WPN_FOLEY_PLR,,,,,,,,,,,88,88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 weap_ww2_winchester_shell_insert_2,,,spssdy\ww2_winchester\weap_ww2_winchester_shell_insert_2.wav,,,WPN_FOLEY_PLR,,,,,,,,,,,88,88,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+
+weap_aw_sten_fire,,,spssdy\aw_sten\weap_aw_sten_fire.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+weap_aw_sten_charge,,,spssdy\aw_sten\weap_aw_sten_charge.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+weap_aw_sten_mag_in,,,spssdy\aw_sten\weap_aw_sten_mag_in.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+weap_aw_sten_mag_out,,,spssdy\aw_sten\weap_aw_sten_mag_out.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+weap_aw_sten_fire_upgraded,,,spssdy\aw_sten\weap_aw_sten_fire_upgraded.wav,,,UIN_MOD,,,,,BUS_FX,,,,,,80,80,,,,,,,,,oldest,,,1,1,,,,,,2d,wpn_all,,NONLOOPING,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
