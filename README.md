@@ -40,6 +40,7 @@
  * ###### MG42 - WIP
  * ###### Lewis - WIP
  * ###### MG-08 - WIP
+ * ###### Breda30 - WIP
 
 
 ##### Snipers:
