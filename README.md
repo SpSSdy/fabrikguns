@@ -10,7 +10,7 @@
 
  * ###### M97 Trench Gun - Finished
  * ###### M30 Luftwaffe Drilling - WIP
-
+ * ###### Walther Shotgun (need proper name) - TBA
 
 ##### SMGs:
 
@@ -19,18 +19,18 @@
  * ###### Sten - Finished
  * ###### PPSh - WIP
  * ###### Thompson - WIP
- * ###### Type 100 - WIP
+ * ###### Type 100 - TBA
 
 
 ##### Rifles:
 
  * ###### M1 Garand - WIP
  * ###### Gewehr 43 - WIP
- * ###### Kar98k - WIP
- * ###### Bar - WIP
+ * ###### Kar98k - TBA
+ * ###### Bar - TBA
  * ###### STG44 - WIP
- * ###### SVT-40 - WIP
- * ###### M1A1 Carbine - WIP
+ * ###### SVT-40 - TBA
+ * ###### M1A1 Carbine - TBA
  * ###### FG-42 - WIP
 
 
@@ -38,7 +38,7 @@
 
  * ###### M1919 - Models & anims uploaded, GDT to follow
  * ###### MG42 - WIP
- * ###### Lewis - WIP
+ * ###### Lewis - TBA
  * ###### MG-08 - WIP
  * ###### Breda30 - WIP
 
@@ -46,14 +46,15 @@
 ##### Snipers:
 
  * ###### M1903 - WIP
- * ###### Karabin - WIP
+ * ###### Karabin - TBA
  * ###### Springfield - WIP
- * ###### Scoped Kar98k - WIP
+ * ###### Scoped Kar98k - TBA
 
 ##### Pistols:
  * ###### Remington New Model Army - WIP
- * ###### Machine Pistol - WIP
+ * ###### Mauser C96 - TBA
  * ###### Dual Wield M1911 - WIP
+ * ###### Luger P-08 - TBA
 
 
 ##### Other:
