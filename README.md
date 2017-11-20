@@ -10,7 +10,7 @@
 
  * ###### M97 Trench Gun - Finished
  * ###### M30 Luftwaffe Drilling - WIP (Black Death)
- * ###### Walther Shotgun (need proper name) - TBA
+ * ###### Walther Automatic Shotgun - TBA
 
 ##### SMGs:
 
