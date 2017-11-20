@@ -60,5 +60,5 @@
 
  * ###### US Shovel - Finished
  * ###### Frag Grenade - Models & anims uploaded, GDT to follow
-
+ * ###### Ray Gun Mk II - ProRevenge's port, just needs adding
 
