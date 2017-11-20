@@ -42,6 +42,9 @@
 ##### Snipers:
 
 * ###### M1903 - WIP
+* ###### Karabin - WIP
+* ###### Springfield - WIP
+* ###### Scoped Kar98k - WIP
 
 
 ##### Other:
