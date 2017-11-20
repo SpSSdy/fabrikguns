@@ -4,7 +4,7 @@
 
 ##### Starting Weapons:
  * ###### US Shovel - Finished
- * ###### ?????????? - WIP
+ * ###### P-08 Luger - WIP
 
 ##### Shotguns:
 
@@ -52,7 +52,6 @@
 
 ##### Pistols:
  * ###### Remington New Model Army - WIP
- * ###### Br9 Luger - WIP
  * ###### Machine Pistol - WIP
  * ###### Dual Wield M1911 - WIP
 
