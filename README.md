@@ -3,14 +3,14 @@
 ## Guns For Fabrik Remaster
 
 
-Shotguns:
+###### Shotguns:
 
 * M97 Trench Gun - Finished
 
 * M30 Luftwaffe Drilling - WIP
 
 
-SMGs:
+###### SMGs:
 
 * Waffe 28 - WIP
 
@@ -21,25 +21,25 @@ SMGs:
 * PPSh - WIP
 
 
-Rifles:
+###### Rifles:
 
 * M1 Garand - WIP
 * Gewehr 43 - WIP
 
 
-LMGs:
+###### LMGs:
 
 * M1919 - Models & anims uploaded, GDT to follow
 
 * MG42 - WIP
 
 
-Snipers:
+###### Snipers:
 
 * M1903 - WIP
 
 
-Other:
+###### Other:
 
 * US Shovel - Finished
 
