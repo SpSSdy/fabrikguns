@@ -39,7 +39,7 @@ M1903 - WIP
 
 Other:
 
-US Shovel - Models & anims uploaded, GDT to follow
+US Shovel - Finished
 
 Frag Grenade - Models & anims uploaded, GDT to follow
 
