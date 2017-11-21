@@ -59,6 +59,6 @@
 ##### Other:
 
  * ###### US Shovel - Binned.
- * ###### Frag Grenade - Models & anims uploaded, GDT to follow
+ * ###### Frag Grenade - Binned.
  * ###### Ray Gun Mk II - ProRevenge's port, just needs adding
 
