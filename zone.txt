@@ -4,4 +4,3 @@ weaponfull,aw_sten_zm
 weaponfull,aw_sten_upgraded_zm
 weaponfull,aw_mp40_zm
 weaponfull,aw_mp40_upgraded_zm
-weapon,melee_shovel_s2_zm
