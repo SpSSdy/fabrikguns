@@ -17,7 +17,7 @@
  * ###### Waffe 28 - WIP (Black Death)
  * ###### Grease Gun - WIP
  * ###### Sten - Finished
- * ###### PPSh - WIP (Black Death)
+ * ###### PPSh - Binned.
  * ###### Thompson - WIP
  * ###### Type 100 - WIP (Black Death)
 
