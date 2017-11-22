@@ -29,7 +29,7 @@ N/A = not applicable. Weapon doesn't have variants available.
  * ###### Sten - Finished
  * ###### PPSh - Standard / Thrive - WIP (Black Death)
  * ###### Thompson - WIP
- * ###### Type 100 - ND - WIP (Black Death)
+ * ###### Type 100 - Standard / Blue Sky - WIP (Black Death)
 
 
 ##### Rifles:
