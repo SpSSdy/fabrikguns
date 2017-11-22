@@ -7,7 +7,9 @@ Reminder of weapon standards:
  - Extended Mag attachment on Pack a Punch
 
 ND = not decided. For variants.
+
 N/A = not applicable. Weapon doesn't have variants available.
+
 
 ##### Starting Weapons:
 
@@ -22,7 +24,7 @@ N/A = not applicable. Weapon doesn't have variants available.
 
 ##### SMGs:
 
- * ###### Waffe 28 - Standard / ND - WIP (Black Death)
+ * ###### Waffe 28 - Standard / Oil Can - WIP (Black Death)
  * ###### Grease Gun - WIP
  * ###### Sten - Finished
  * ###### PPSh - Standard / Thrive - WIP (Black Death)
