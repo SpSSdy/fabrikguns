@@ -17,7 +17,7 @@ N/A = not applicable. Weapon doesn't have variants available.
 ##### Shotguns:
 
  * ###### M97 Trench Gun - Finished
- * ###### M30 Luftwaffe Drilling - ND - WIP (Black Death)
+ * ###### M30 Luftwaffe Drilling - Standard / Valkyrie - WIP (Black Death)
  * ###### Walther Automatic Shotgun - TBA
 
 ##### SMGs:
@@ -32,31 +32,31 @@ N/A = not applicable. Weapon doesn't have variants available.
 
 ##### Rifles:
 
- * ###### M1 Garand - ND - WIP (Black Death)
+ * ###### M1 Garand - Standard / Frontline - WIP (Black Death)
  * ###### Gewehr 43 - WIP
- * ###### Kar98k - ND - WIP (Black Death)
- * ###### Bar - ND - WIP (Black Death)
+ * ###### Kar98k - Standard / Fallen - WIP (Black Death)
+ * ###### Bar - Dude Up / Dude Up II - WIP (Black Death)
  * ###### STG44 - WIP
  * ###### SVT-40 - TBA
  * ###### M1A1 Carbine - TBA
- * ###### FG-42 - ND - WIP (Black Death)
+ * ###### FG-42 - Standard / Stripe Happy II - WIP (Black Death)
 
 
 ##### LMGs:
 
  * ###### M1919 - N/A - Models & anims uploaded, GDT to follow
  * ###### MG42 - WIP
- * ###### Lewis - ND - WIP (Black Death)
+ * ###### Lewis - Standard / Landship - WIP (Black Death)
  * ###### MG-08 - WIP
  * ###### Breda30 - WIP
 
 
 ##### Snipers:
 
- * ###### M1903 - WIP (Black Death)
+ * ###### M1903 - Faithful / Faithful II - (Black Death)
  * ###### Karabin - TBA
- * ###### Scoped Kar98k - WIP (Black Death)
- * ###### Lee-Enfield - WIP (Black Death)
+ * ###### Scoped Kar98k - Standard / Fallen - WIP (Black Death)
+ * ###### Lee-Enfield - Roundabout / Greased - WIP (Black Death)
 
 ##### Pistols:
  * ###### Remington New Model Army - WIP
