@@ -2,43 +2,51 @@
 
 ## Guns For Fabrik Remaster
 
+Reminder of weapon standards:
+ - Variant on Pack a Punch (non-PaP is optional)
+ - Extended Mag attachment on Pack a Punch
+
+ND = not decided. For variants.
+N/A = not applicable. Weapon doesn't have variants available.
+
 ##### Starting Weapons:
- * ###### US Shovel - Finished
+
+ * ###### US Shovel - Flash II - Finished
  * ###### P-08 Luger - WIP
 
 ##### Shotguns:
 
  * ###### M97 Trench Gun - Finished
- * ###### M30 Luftwaffe Drilling - WIP (Black Death)
+ * ###### M30 Luftwaffe Drilling - ND - WIP (Black Death)
  * ###### Walther Automatic Shotgun - TBA
 
 ##### SMGs:
 
- * ###### Waffe 28 - WIP (Black Death)
+ * ###### Waffe 28 - Standard / ND - WIP (Black Death)
  * ###### Grease Gun - WIP
  * ###### Sten - Finished
- * ###### PPSh - WIP (Black Death)
+ * ###### PPSh - Standard / Thrive - WIP (Black Death)
  * ###### Thompson - WIP
- * ###### Type 100 - WIP (Black Death)
+ * ###### Type 100 - ND - WIP (Black Death)
 
 
 ##### Rifles:
 
- * ###### M1 Garand - WIP (Black Death)
+ * ###### M1 Garand - ND - WIP (Black Death)
  * ###### Gewehr 43 - WIP
- * ###### Kar98k - WIP (Black Death)
- * ###### Bar - WIP (Black Death)
+ * ###### Kar98k - ND - WIP (Black Death)
+ * ###### Bar - ND - WIP (Black Death)
  * ###### STG44 - WIP
  * ###### SVT-40 - TBA
  * ###### M1A1 Carbine - TBA
- * ###### FG-42 - WIP (Black Death)
+ * ###### FG-42 - ND - WIP (Black Death)
 
 
 ##### LMGs:
 
- * ###### M1919 - Models & anims uploaded, GDT to follow
+ * ###### M1919 - N/A - Models & anims uploaded, GDT to follow
  * ###### MG42 - WIP
- * ###### Lewis - WIP (Black Death)
+ * ###### Lewis - ND - WIP (Black Death)
  * ###### MG-08 - WIP
  * ###### Breda30 - WIP
 
@@ -48,17 +56,17 @@
  * ###### M1903 - WIP (Black Death)
  * ###### Karabin - TBA
  * ###### Scoped Kar98k - WIP (Black Death)
+ * ###### Lee-Enfield - WIP (Black Death)
 
 ##### Pistols:
  * ###### Remington New Model Army - WIP
- * ###### Mauser C96 - WIP (Black Death)
- * ###### Dual Wield M1911 - WIP (Black Death)
+ * ###### Mauser C96 - Standard / Heimat II - WIP (Black Death)
+ * ###### Dual Wield M1911 - Juno / ND - WIP (Black Death)
  * ###### Luger P-08 - TBA
 
 
 ##### Other:
 
- * ###### US Shovel - Finished
- * ###### Frag Grenade - Models & anims uploaded, GDT to follow
- * ###### Ray Gun Mk II - ProRevenge's port, just needs adding
+ * ###### Frag Grenade - N/A - Models & anims uploaded, GDT to follow
+ * ###### Ray Gun Mk II - N/A - ProRevenge's port, just needs adding
 
