@@ -13,7 +13,7 @@ N/A = not applicable. Weapon doesn't have variants available.
 
 ##### Starting Weapons:
 
- * ###### US Shovel - Flash II - Finished
+ * ###### US Shovel - Flash - soon
  * ###### P-08 Luger - WIP
 
 ##### Shotguns:
