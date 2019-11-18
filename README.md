@@ -1,74 +1,52 @@
-# NOTE: THESE GUNS DO NOT CONTAIN THE GDT WITHIN THE GITHUB FOR PRIVACY REASONS.
+coffee
 
-## Guns For Fabrik Remaster
+coffee
 
-Reminder of weapon standards:
- - Variant on Pack a Punch (non-PaP is optional)
- - Extended Mag attachment on Pack a Punch
+coffee
 
-ND = not decided. For variants.
+coffee
 
-N/A = not applicable. Weapon doesn't have variants available.
+coffee
 
+coffee
 
-##### Starting Weapons:
+coffee
 
- * ###### US Shovel - Flash - soon
- * ###### P-08 Luger - WIP (TBD)
+coffee
 
-##### Shotguns:
+coffee
 
- * ###### M97 Trench Gun - Finished
- * ###### M30 Luftwaffe Drilling - WIP (TBD)
- * ###### Walther AuTBDatic Shotgun - WIP (TBD)
+coffee
 
-##### SMGs:
+coffee
 
- * ###### Waffe 28 - Standard / Oil Can - WIP (Speedy)
- * ###### Grease Gun - WIP (TBD)
- * ###### Sten - Finished
- * ###### PPSh - WIP (TBD)
- * ###### Thompson - WIP (TBD)
- * ###### Type 100 - Standard / Blue Sky - WIP (Speedy)
+coffee
 
+coffee
 
-##### Rifles:
+coffee
 
- * ###### M1 Garand - Standard / Frontline - WIP (Speedy)
- * ###### Gewehr 43 - WIP (TBD)
- * ###### Kar98k - Standard / Fallen - WIP (Speedy)
- * ###### Bar - Dude Up / Dude Up II - WIP (Speedy)
- * ###### STG44 - Finished
- * ###### SVT-40 - WIP (TBD)
- * ###### M1A1 Carbine - WIP (TBD)
- * ###### FG-42 - Standard / Stripe Happy II - WIP (Speedy)
+coffee
 
+coffee
 
-##### LMGs:
+coffee
 
- * ###### M1919 - N/A - Models & anims uploaded, GDT to follow
- * ###### MG42 - WIP (TBD)
- * ###### Lewis - Standard / Landship - WIP (Speedy)
- * ###### MG-08 - WIP (TBD)
- * ###### Breda30 - WIP (TBD)
+coffee
 
+coffee
 
-##### Snipers:
+coffee
 
- * ###### M1903 - Faithful / Faithful II - (Speedy)
- * ###### Karabin - WIP (TBD)
- * ###### Scoped Kar98k - Standard / Fallen - WIP (Speedy)
- * ###### Lee-Enfield - Roundabout / Greased - WIP (Speedy)
+coffee
 
-##### Pistols:
- * ###### Remington New Model Army - WIP (TBD)
- * ###### Mauser C96 - Standard / Heimat II - WIP (Speedy)
- * ###### Dual Wield M1911 - Jupiter / Juno - WIP (Speedy)
- * ###### Luger P-08 - WIP (TBD)
+coffee
 
+coffee
 
-##### Other:
+coffee
 
- * ###### Frag Grenade - N/A - Models & anims uploaded, GDT to follow
- * ###### Ray Gun Mk II - N/A - ProRevenge's port, just needs adding
+coffee
+
+coffee
 
